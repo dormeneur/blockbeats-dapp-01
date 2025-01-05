@@ -2,6 +2,8 @@
 
 A Blockchain based NFT music player application.
 
+[View Project Here](https://dapp-zvea.vercel.app/)
+
 **What is it?**
 
 BlockBeats is a music player that lets you play music you own as NFTs on the blockchain. Think of it like your personal, decentralized Spotify, but for your NFT music collection.
